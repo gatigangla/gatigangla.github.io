@@ -50,7 +50,7 @@ Define Video Processing Function. This function processes each video, extracts k
 
 Train the models using Pycaret which automatically tests and trains various models and gives the results.
 
-<img width="233" alt="/Users/ggm1macbookpro/GGDA/DataAnalytics/capstone_project_surya_namaskar/Capstone Surya Namaskar v2 onwards /delete-gati/Model Selection.png" src="Model Selection.jpg">
+<img width="233" alt="Model Selection.jpg" src="Model Selection.jpg">
 
 We choose Decision Tree as our prefered model as it was the fastest with highest accuracy. 
 
